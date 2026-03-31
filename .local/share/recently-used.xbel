@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/shantanav/Downloads/OSSCapstoneProject.docx.pdf" added="2026-03-31T08:53:00.869066Z" modified="2026-03-31T08:53:21.884388Z" visited="2026-03-31T08:53:00.869067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-03-31T08:53:21.884382Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shantanav/Downloads/OSS_Audit_Git_Report.pdf" added="2026-03-31T12:07:31.862837Z" modified="2026-03-31T12:07:31.862848Z" visited="2026-03-31T12:07:31.862839Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-03-31T12:07:31.862843Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shantanav/Pictures/Screenshot_2026-03-31_18_42_58.png" added="2026-03-31T13:13:03.083844Z" modified="2026-03-31T13:15:43.528733Z" visited="2026-03-31T13:13:03.083845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2026-03-31T13:13:18.837716Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-03-31T13:15:43.528727Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shantanav/Pictures/Screenshot_2026-03-31_19_02_13.png" added="2026-03-31T13:32:32.090921Z" modified="2026-03-31T13:32:32.090937Z" visited="2026-03-31T13:32:32.090922Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-03-31T13:32:32.090930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shantanav/Pictures/Screenshot_2026-03-31_19_08_26.png" added="2026-03-31T13:38:51.596478Z" modified="2026-03-31T13:38:51.596500Z" visited="2026-03-31T13:38:51.596481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-03-31T13:38:51.596488Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shantanav/Pictures/Screenshot_2026-03-31_19_25_17.png" added="2026-03-31T13:55:51.325060Z" modified="2026-03-31T13:55:51.325080Z" visited="2026-03-31T13:55:51.325063Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-03-31T13:55:51.325070Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shantanav/Pictures/Screenshot_2026-03-31_19_32_40.png" added="2026-03-31T14:02:59.785338Z" modified="2026-03-31T14:02:59.785374Z" visited="2026-03-31T14:02:59.785343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-03-31T14:02:59.785363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

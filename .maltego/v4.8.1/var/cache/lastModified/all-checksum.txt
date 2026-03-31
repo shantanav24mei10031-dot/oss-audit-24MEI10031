@@ -1,0 +1,14 @@
+/usr/share/maltego/platform=1729061135000
+cluster./usr/share/maltego/groovy=1729061135000
+cluster./usr/share/maltego/ide=1729061135000
+cluster./usr/share/maltego/java=1729061135000
+cluster./usr/share/maltego/maltego=1729061135000
+cluster./usr/share/maltego/maltego-core-platform=1729061135000
+cluster./usr/share/maltego/maltego-ui=1729061135000
+cluster./usr/share/maltego/platform=1729061135000
+user=1729061135000
+crc=7
+locale=en_US
+branding=maltego
+java.version=17.0.14-ea
+java.vm.version=17.0.14-ea+6-Debian-1

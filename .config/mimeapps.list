@@ -1,0 +1,5 @@
+[Default Applications]
+application/x-java=xfce-text-editor.desktop
+
+[Added Associations]
+application/x-java=xfce-text-editor.desktop;

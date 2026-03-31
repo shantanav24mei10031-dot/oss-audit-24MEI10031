@@ -1,0 +1,19 @@
+================================================
+  MY OPEN SOURCE MANIFESTO
+  Generated on: 31 March 2026
+  By: shantanav
+================================================
+
+Every day, I rely on Git — a tool built not for profit,
+but for people. It was created by developers who believed
+that software, like knowledge, should be free.
+
+To me, freedom means choice. That is why I believe in
+open source — because it gives every person the freedom
+to use, study, modify, and share the tools they depend on.
+
+One day, I will build A secure free cloud os with no storage limit and easily run smoothly on extremely low end hardware/least resources and share it freely with the
+world — just as others have done for me. Because the best
+way to honour those who gave freely is to give freely in return.
+
+================================================

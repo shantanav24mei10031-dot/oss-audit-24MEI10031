@@ -1,0 +1,1 @@
+[ -r /home/shantanav/.config/kali-HiDPI/xsession-settings ] && . /home/shantanav/.config/kali-HiDPI/xsession-settings
